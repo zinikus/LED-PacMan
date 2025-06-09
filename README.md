@@ -29,4 +29,4 @@ This project brings the classic Pac-Man game to life on a compact 16x16 RGB LED 
 
 Open-source under MIT License
 
-**Author**: ZINIKUS
+**Author**: https://github.com/zinikus
